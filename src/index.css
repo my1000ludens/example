@@ -1,5 +1,6 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  pointer-events: none;
 }
 
 #app {
